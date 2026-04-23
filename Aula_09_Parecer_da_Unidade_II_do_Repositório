@@ -1,0 +1,16 @@
+Aula 09
+Parecer da Unidade II do Repositório 
+Vitor Oliverra F. Alves
+
+1. Objetivo do Meu Estudo
+Detalhar o meu progresso no aprendizado de Programação Assistida por IA, entendendo como usar a logica das LLM's para codar e principalmente com responsabilidade.
+
+2. Competências que Desenvolvi
+Desenvolvi Prompts tendo a IA como suporte, mas ainda assim tentando desenvolver com o minimo de ajuda possivel. Não tive dificuldade em fazer todas as atividades, mas, mesmo usando IA não consegui desenvolver 100% do que era proposto nas missões.
+
+3. Minha Análise Crítica
+Ao longo dessas missões, evoluí na escrita de códigos simples, mas ainda com dificuldade em orquestrar as LLM's da forma correta.
+A atividade que mais tive dificuldade de realizar foi a de Consulta de CEP, enquanto fazia, um erro na construção da URL notei que a atenção aos detalhes da documentação de uma API é fundamental para realizar a conexão. Além disso, percebi que a validação de dados de entrada (como o formato do CEP) é necessário para evitar requisições inúteis ao servidor.
+
+4. Conclusão e Próximos Passos
+Percebi que, o que eu entendia de Artificial Inteligence não é nem 1% de como se desenvolve e utiliza todo o Front e Back end das LLM's. Meus próximos objetivos terá também o aprofundamento e melhoria em criação de prompts e a integração de meus scripts.
