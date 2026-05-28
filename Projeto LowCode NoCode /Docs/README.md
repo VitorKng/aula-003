@@ -57,6 +57,7 @@ Após esta alteração a LLM alterou partes do prototipo em um idioma diferente 
 
 - Vitor Oliveira Fernandes Alves https://github.com/VitorKng
 - Luis Felipe Ferreira de Aguiar https://github.com/LuisFelipeAguiarr
+- Ricardo Cardozo https://github.com/RicardoCardozo25
 ---
 
 ## 📝 Registro da Aula
