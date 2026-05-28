@@ -9,6 +9,7 @@ O desafio escolhido pelo grupo foi, criar uma aplicação de Calculadora para Or
 ## 🖥️ Protótipo
 
 O protótipo funciona para automatizar orçamentos de compras em lojas e-commerce para artigos de construção civil.
+https://gemini.google.com/share/b9ce94d0786b
 ---
 
 ## ⚙️ Plataforma Utilizada
@@ -54,8 +55,8 @@ Após esta alteração a LLM alterou partes do prototipo em um idioma diferente 
 
 ## 👥 Colaboração
 
-Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
-
+- Vitor Oliveira Fernandes Alves https://github.com/VitorKng
+- Luis Felipe Ferreira de Aguiar https://github.com/LuisFelipeAguiarr
 ---
 
 ## 📝 Registro da Aula
