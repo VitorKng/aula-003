@@ -62,7 +62,7 @@ Após esta alteração a LLM alterou partes do prototipo em um idioma diferente 
 
 ## 📝 Registro da Aula
 
-Data: **11/05/2026**  
+Data: **27/05/2026**  
 
 Atividade: Discussão crítica + mini-projeto de aplicação  
 
